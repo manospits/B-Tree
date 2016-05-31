@@ -1,3 +1,3 @@
 # B-Tree
-Data implementation project\n
-    ->Team Manos Pitsikalis - Panagiotis Fotopoulos
+Data implementation project
+Team Manos Pitsikalis - Panagiotis Fotopoulos
